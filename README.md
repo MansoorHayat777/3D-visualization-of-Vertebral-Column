@@ -1,0 +1,2 @@
+
+You utilized the patient's CT scan data to develop a 3D visualization of the vertebral column. Employing Python, you analyzed the .dcm files, focusing on three primary dimensions: axial, sagittal, and coronal. Additionally, by leveraging 3D Slicer software, you segmented the Dicom files, successfully creating a detailed three-dimensional model of the vertebral column based on the patient's CT scan data.
